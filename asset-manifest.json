@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/qwasxc-tailwind-nike/static/css/main.f7dad1e6.css",
-    "main.js": "/qwasxc-tailwind-nike/static/js/main.b62e4ceb.js",
+    "main.css": "/qwasxc-tailwind-nike/static/css/main.0371649a.css",
+    "main.js": "/qwasxc-tailwind-nike/static/js/main.49aeda20.js",
     "static/js/787.1f85c6a5.chunk.js": "/qwasxc-tailwind-nike/static/js/787.1f85c6a5.chunk.js",
     "static/media/offer.svg": "/qwasxc-tailwind-nike/static/media/offer.c7d6b2254f4de5d7c074e97f8c72a5b9.svg",
     "static/media/customer2.svg": "/qwasxc-tailwind-nike/static/media/customer2.4a00a2e58f20bff031ee9b0080aadec9.svg",
@@ -34,12 +34,12 @@
     "static/media/arrow-right.svg": "/qwasxc-tailwind-nike/static/media/arrow-right.7e50a565c1de8e3e6cc15df411faff04.svg",
     "static/media/chevron-left.svg": "/qwasxc-tailwind-nike/static/media/chevron-left.c304e318a5678153928d062b2eb4f60c.svg",
     "static/media/chevron-right.svg": "/qwasxc-tailwind-nike/static/media/chevron-right.5f62b7862a6ec631a77966c1e7d88721.svg",
-    "main.f7dad1e6.css.map": "/qwasxc-tailwind-nike/static/css/main.f7dad1e6.css.map",
-    "main.b62e4ceb.js.map": "/qwasxc-tailwind-nike/static/js/main.b62e4ceb.js.map",
+    "main.0371649a.css.map": "/qwasxc-tailwind-nike/static/css/main.0371649a.css.map",
+    "main.49aeda20.js.map": "/qwasxc-tailwind-nike/static/js/main.49aeda20.js.map",
     "787.1f85c6a5.chunk.js.map": "/qwasxc-tailwind-nike/static/js/787.1f85c6a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7dad1e6.css",
-    "static/js/main.b62e4ceb.js"
+    "static/css/main.0371649a.css",
+    "static/js/main.49aeda20.js"
   ]
 }
